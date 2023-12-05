@@ -1,6 +1,10 @@
-html {
-    background-color: lavenderblush;
-}
+{
+
+} 
+    background-color lavenderblush
+
+
+ 
 video,
  audio {
     display: block;
@@ -69,9 +73,7 @@ main {
     padding: 10px;
 }
 
-.single_page {
-
-}
+.single_page
 
 .col {
     padding: 10px;
