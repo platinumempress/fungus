@@ -1,12 +1,18 @@
 body {
     background-color: lavenderblush;
 }
-video, audio {
+video,
+ audio {
     display: block;
-    width: 65%;
+    width: 90%;
     margin: 20px auto;
 }
-
+iframe {
+    display: block;
+    border: 4px solid coral;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 12px;
+}
 img {
     display: block;
     margin: 0 auto;
@@ -110,6 +116,10 @@ td  {
     width: 62%;
     
 }
+<img id="gall_img_resize" src="Images/enoki.jpg" alt=Enoki Mushrooms>
+    display: block
+    width: 100%
+    height: 90%
 
 @media (min-width: 786px) {
     nav li {
