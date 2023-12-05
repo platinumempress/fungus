@@ -165,11 +165,6 @@ td  {
         width: 55%;
         margin:  20px auto;
     }
-    video,
- audio {
-    display: block;
-    width: 55%;
-    margin: 10px auto;
     
 }
     nav li a {
