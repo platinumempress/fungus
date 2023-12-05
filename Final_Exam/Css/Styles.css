@@ -186,8 +186,8 @@ td  {
 
     .col {
         border: 2px solid darkslateblue;
-        margin: 6px;
-        padding: 6px;
+        margin: 8px;
+        padding: 8px;
         border-radius: 12px;
     }
     #last_img_resize {
