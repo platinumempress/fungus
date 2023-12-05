@@ -162,7 +162,7 @@ td  {
 
 @media (min-width: 1024px) {
     #container {
-        width: 55%;
+        width: 65%;
         margin:  20px auto;
     }
     
@@ -185,17 +185,17 @@ td  {
 
     .col {
         border: 2px solid darkslateblue;
-        margin: 8px;
-        padding: 8px;
+        margin: 6px;
+        padding: 6px;
         border-radius: 12px;
     }
     #last_img_resize {
-        width: 60%;
+        width: 80%;
         height: 40%;
         
     }
     section img {
-       width: 65%;
+       width: 55%;
 
     }
     table img {
