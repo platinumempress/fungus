@@ -81,8 +81,10 @@ main {
 }
 
 .col {
+    margin: 50%;
     padding: 10px;
     border-top: 2px b;
+    
 }
 
 footer {
@@ -117,9 +119,9 @@ table {
     border: darkblue;
 }
 tr,
-td {
+td margin {
     border: 4px solid lightgrey;
-    width: 50%;
+    width: 53%;
     
 }
 
