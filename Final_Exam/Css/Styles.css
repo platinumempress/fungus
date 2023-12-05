@@ -162,7 +162,7 @@ td  {
 
 @media (min-width: 1024px) {
     #container {
-        width: 65%;
+        width: 55%;
         margin:  20px auto;
     }
     nav li a {
