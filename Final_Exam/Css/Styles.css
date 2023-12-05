@@ -4,7 +4,7 @@ body {
 video,
  audio {
     display: block;
-    width: 90%;
+    width: 70%;
     margin: 20px auto;
 }
 iframe {
@@ -161,7 +161,7 @@ td  {
 
 @media (min-width: 1024px) {
     #container {
-        width: 55%;
+        width: 65%;
         margin:  20px auto;
     }
     nav li a {
@@ -180,8 +180,8 @@ td  {
         border-radius: 12px;
     }
     #last_img_resize {
-        width: 50%;
-        height: 50%;
+        width: 80%;
+        height: 40%;
         
     }
     section img {
@@ -189,6 +189,6 @@ td  {
 
     }
     table img {
-        width: 55%;
+        width: 100%;
     }
 }
