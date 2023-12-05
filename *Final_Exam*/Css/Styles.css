@@ -1,6 +1,11 @@
 body {
     background-color: lavenderblush;
 }
+video, audio {
+    display: block;
+    width: 65%;
+    margin: 20px auto;
+}
 
 img {
     display: block;
