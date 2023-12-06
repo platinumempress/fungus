@@ -184,6 +184,7 @@ td  {
     #lower_area {
         display: flex;
         width: fit-content;
+        height: 40px;
     }
 
     .col {
