@@ -3,11 +3,13 @@ body {
 }
 
  
- video,
- audio 
-    display
-     
-{
+ video, audio {
+    display: block;
+    width: 75%;
+    margin: 20px auto;
+
+ }
+
 iframe {
     display: block;
     border: 4px solid coral;
@@ -202,4 +204,3 @@ td  {
     table img {
         width: 95%;
     }
-}
