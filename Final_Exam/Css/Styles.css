@@ -33,8 +33,8 @@ h4 {
 }
 #container {
     background-color: lightsalmon;
-    width: 90%;
-    margin: 0, 0;
+    width: 65%;
+    margin: 10, auto;
 }
 
 nav {
