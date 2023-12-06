@@ -4,11 +4,10 @@ body {
 
  
  video,
- audio {
-    display:
-    margin: 10px auto;
-    
-}
+ audio 
+    display{
+    :margin> 10px auto;
+ }
 iframe {
     display: block;
     border: 4px solid coral;
