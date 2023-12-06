@@ -69,6 +69,10 @@ nav li a:hover {
     color: rebeccapurple;
     border-color: fuchsia;
 }
+#lower_area {
+    display: flex;
+    width: fit-content;
+}
 
 main {
     padding: 6px;
