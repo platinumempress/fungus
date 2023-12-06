@@ -184,8 +184,7 @@ td  {
     #lower_area {
         display: flex;
         width: fit-content;
-    
-}
+    }
 
     .col {
         border: 2px solid darkslateblue;
