@@ -183,12 +183,13 @@ td  {
 
     #lower_area {
         display: flex;
+        width: fit-content;
     }
 
     .col {
         border: 2px solid darkslateblue;
         margin: 6px;
-        padding: 8px;
+        padding: 6px;
         border-radius: 12px;
     }
     #last_img_resize {
